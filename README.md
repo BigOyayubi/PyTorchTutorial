@@ -14,4 +14,5 @@ PyTorch以前に機械学習についても素人のため、
 # 謝辞
 
 こちらの翻訳を参考にさせていただきました。
+
 http://torch.classcat.com/2019/06/23/pytorch-1-1-getting-started-cifar10/
